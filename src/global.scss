@@ -1,0 +1,14 @@
+.scrollbar-blue::-webkit-scrollbar {
+  width: 8px;
+}
+.scrollbar-blue::-webkit-scrollbar-track {
+  background: #f0f0f0;
+}
+.scrollbar-blue::-webkit-scrollbar-thumb {
+  background-color: #3b82f6;
+  border-radius: 4px;
+  border: 2px solid #f0f0f0;
+}
+.scrollbar-blue::-webkit-scrollbar-button {
+  display: none;
+}
